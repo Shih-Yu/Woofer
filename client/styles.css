@@ -1,0 +1,53 @@
+/* Reset page */
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: #003f88;
+  color: #fdc500;
+}
+
+.navbar {
+  background: #00296b;
+}
+
+.heading {
+  text-align: center;
+  margin-top: 5%;
+}
+
+.woof-form {
+  background: #00509d;
+  margin: 100px;
+  padding: 15px;
+  border-radius: 5px;
+  width: 50%;
+}
+
+.form-control {
+  background: #00296b;
+  color:#fdc500
+}
+
+
+.btn {
+  background: #00296b;
+  color: #ffd500;
+}
+
+.spinner-border, .visually {
+  font-size: 35px;
+}
+
+h4 {
+  text-align: center;
+  margin: 5%;
+}
+
+.card {
+  background: #00296b;
+  margin: 0 auto;
+}
+
