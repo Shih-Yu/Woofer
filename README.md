@@ -12,8 +12,11 @@ This purpose of this project is to learn more about fullstack technology and the
 Front-End:
 
  -HTML
+ 
  -CSS
+ 
  -JavaScript
+ 
  -Bootstrap
  
  Back-End:
