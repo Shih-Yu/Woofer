@@ -9,7 +9,7 @@ This purpose of this project is to learn more about fullstack technology and the
 
 ## Tech Used
 
-Front-End:
+###Front-End:
 
  -HTML
  
@@ -19,8 +19,10 @@ Front-End:
  
  -Bootstrap
  
- Back-End:
+ ###Back-End:
  
  -Express
+ 
  -Mongoose
+ 
  -MongoDB
